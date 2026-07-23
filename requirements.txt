@@ -1,0 +1,17 @@
+# Install inside the Kaggle notebook (GPU runtime recommended)
+torch
+transformers
+bitsandbytes
+accelerate
+langchain
+langchain-huggingface
+ddgs
+PyPDF2
+reportlab
+fastapi
+uvicorn
+nest_asyncio
+pyngrok
+python-multipart
+streamlit>=1.32
+requests>=2.31
